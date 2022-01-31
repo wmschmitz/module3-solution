@@ -1,1 +1,76 @@
+*{
+	box-sizing: border-box
 
+}
+
+body{
+	background-color: #a3b899;
+}
+
+.container-fluid{
+	padding: 0px 20px;
+}
+
+.navbar{
+	background-color: whitesmoke;
+}
+
+.navbar-toggler{
+	border: none;
+	color: black;
+	opacity: 100%;
+}
+
+.navbar-light .navbar-toggler{
+	border: none;
+}
+
+.navbar-toggler-icon{
+	width: 2em;
+	color: black;
+}
+
+.navbar-collapse{
+	position: relative;
+	top: 13px;
+	margin-left: -25px;
+	margin-right: -25px;
+
+}
+
+div .nav-item {
+	background-color: #eeeeee;
+	color: #ffffff;
+	margin-top: 3px
+}
+
+li {
+	text-align: center;
+}
+
+h1{
+	font-size: 2em;
+}
+
+h2{
+	margin: 50px 10px 40px;
+	text-align: center;
+	font-size: 2em;
+}
+
+h3{
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+#chicken{
+	margin: auto;
+
+}
+
+#chickenbox {
+	background-color: whitesmoke;
+	padding: 20px;
+	margin: auto;
+	text-align: justify
+}
