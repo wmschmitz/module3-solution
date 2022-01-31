@@ -17,7 +17,6 @@ body{
 
 .navbar-toggler{
 	border: none;
-	background: none;
 	color: black;
 	opacity: 100%;
 }
@@ -35,8 +34,8 @@ nav button {
 .navbar-collapse{
 	position: relative;
 	top: 13px;
-	margin-left: -100px;
-	margin-right: -100px;
+	margin-left: -150px;
+	margin-right: -150px;
 
 }
 
