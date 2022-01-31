@@ -17,12 +17,14 @@ body{
 
 .navbar-toggler{
 	border: none;
+	background: none;
 	color: black;
 	opacity: 100%;
 }
 
-.navbar-light .navbar-toggler{
-	border: none;
+nav button {
+	color: darkred;
+
 }
 
 .navbar-toggler-icon{
@@ -33,8 +35,8 @@ body{
 .navbar-collapse{
 	position: relative;
 	top: 13px;
-	margin-left: -25px;
-	margin-right: -25px;
+	margin-left: -100px;
+	margin-right: -100px;
 
 }
 
