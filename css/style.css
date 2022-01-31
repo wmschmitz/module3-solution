@@ -26,6 +26,10 @@ nav button {
 
 }
 
+ul .container-fluid .navbar-nav .me-auto .mb-2{
+	clear: both;
+}
+
 .navbar-toggler-icon{
 	width: 2em;
 	color: black;
